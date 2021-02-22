@@ -13,8 +13,8 @@ const BrowsePage = ({ data }) => {
   console.log(allPost[0]);
   console.log(allPost[0]);
 
-  const x0 = filterPostEvery(allPost, ["tour"]);
-  const x1 = filterPostEvery(allPost, ["north", "tour"]);
+  const x0 = filterPostEvery(allPost, ["banner"]);
+  const x1 = filterPostEvery(allPost, ["tour"]);
 
   const x2 = filterPostEvery(allPost, ["north", "tour"]);
   const x3 = filterPostEvery(allPost, ["central","tour"]);
@@ -90,7 +90,9 @@ export const BrowsePageQuery = graphql`
             backdrop_path {
               publicURL
             }
-            
+            featuredimage {
+              publicURL
+            }              
               
             
           }

@@ -55,7 +55,7 @@ export const AboutJumboPageQuery = graphql`
           blurbs {
             image {
               childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
+                fluid(maxWidth: 480, quality: 92) {
                   ...GatsbyImageSharpFluid
                 }
               }

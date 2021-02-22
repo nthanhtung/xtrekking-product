@@ -15,7 +15,7 @@ function Banner({movies}) {
       style={{
         backgroundSize: "cover",
         backgroundImage: `url(
-        "${movie?.backdrop_path.publicURL}"
+        "${movie?.featuredimage.publicURL}"
         )`,
         backgroundPosition: "center center"
       }}

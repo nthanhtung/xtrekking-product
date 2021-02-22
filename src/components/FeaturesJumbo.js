@@ -1,7 +1,8 @@
 import React from 'react'
-import PropTypes from 'prop-types'
+import PropTypes, { string } from 'prop-types'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 import { Jumbotron } from '../components';
+
 
 const FeatureGrid = ({ gridItems }) => (
     <Jumbotron.Container>
@@ -12,7 +13,9 @@ const FeatureGrid = ({ gridItems }) => (
             <Jumbotron.SubTitle>{item.subTitle}</Jumbotron.SubTitle>
           </Jumbotron.Pane>
           <Jumbotron.Pane>
-            <PreviewCompatibleImage imageInfo={item} />
+            <div style={{padding:"20px"}}>
+            <PreviewCompatibleImage imageInfo={item.image}/>
+            </div>
           </Jumbotron.Pane>
         </Jumbotron>
       ))}

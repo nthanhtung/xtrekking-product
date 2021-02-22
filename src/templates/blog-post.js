@@ -128,7 +128,9 @@ export const pageQuery = graphql`
             backdrop_path {
               publicURL
             }
-            
+            featuredimage {
+              publicURL
+            }            
               
             
           }

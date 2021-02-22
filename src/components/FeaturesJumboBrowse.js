@@ -17,7 +17,9 @@ const FeatureGrid = ({ item }) => (
         </Link>
       </Jumbotron.Pane>
       <Jumbotron.Pane>
-        <img src={item.node.frontmatter.backdrop_path.publicURL} alt={item.node.frontmatter.title}/>
+        <div style={{padding:"20px"}}>
+          <img src={item.node.frontmatter.featuredimage.publicURL} alt={item.node.frontmatter.title}/>
+        </div>
       </Jumbotron.Pane>
     </Jumbotron>
   </Jumbotron.Container>

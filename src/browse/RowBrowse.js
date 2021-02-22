@@ -21,15 +21,17 @@ function Row({ title, movies, isLargeRow }) {
       <h2>{title}</h2>
       <div className="row_posters">
         {movies.map(movie => {
-          return <img
+          return <img 
+            // style={isLargeRow ? {width:"700px"} : {width:"500px"}}
+            // style={{"object-fit":"cover"}}
             key={movie.node.frontmatter.id }
             onClick={() => handleClick(movie)}
             className={`row_poster ${isLargeRow && "row_posterLarge"}`}
-            src={`${base_url}${isLargeRow ? movie.node.frontmatter.poster_path.publicURL  : movie.node.frontmatter.backdrop_path.publicURL }`}
-            alt={movie.node.frontmatter.title } />
+            src={`${base_url}${isLargeRow ? movie.node.frontmatter.featuredimage.publicURL  : movie.node.frontmatter.featuredimage.publicURL }`}
+            alt={movie.node.frontmatter.title } /> 
         })}
       </div>
-      <div style={{ padding: "40px" }}>
+      <div>
         {trailerUrl && <FeaturesJumboBrowse item={trailerUrl}/>}
       </div>
     </div>
