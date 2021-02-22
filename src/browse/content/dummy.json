@@ -1,0 +1,427 @@
+{
+    "page": 1,
+        "results": [
+        {
+            "backdrop_path": "/57vVjteucIF3bGnZj6PmaoJRScw.jpg",
+            "genre_ids": [
+                10765,
+                9648,
+                35
+            ],
+            "first_air_date": "2021-01-15",
+            "original_language": "en",
+            "original_name": "WandaVision",
+            "origin_country": [
+                "US"
+            ],
+            "id": 85271,
+            "vote_count": 2097,
+            "vote_average": 8.5,
+            "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+            "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+            "name": "WandaVision",
+            "popularity": 4488.813,
+            "media_type": "tv"
+        },
+        {
+            "overview": "Wonder Woman comes into conflict with the Soviet Union during the Cold War in the 1980s and finds a formidable foe by the name of the Cheetah.",
+            "release_date": "2020-12-16",
+            "adult": false,
+            "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "vote_count": 2982,
+            "original_language": "en",
+            "id": 464052,
+            "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+            "title": "Wonder Woman 1984",
+            "video": false,
+            "vote_average": 7.1,
+            "original_title": "Wonder Woman 1984",
+            "popularity": 3040.43,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
+            "genre_ids": [
+                53,
+                28,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Outside the Wire",
+            "poster_path": "/e6SK2CAbO3ENy52UTzP3lv32peC.jpg",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 341,
+            "overview": "In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.",
+            "release_date": "2021-01-15",
+            "title": "Outside the Wire",
+            "id": 775996,
+            "popularity": 1273.607,
+            "media_type": "movie"
+        },
+        {
+            "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+            "release_date": "2020-12-25",
+            "adult": false,
+            "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
+            "title": "Soul",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10402,
+                14
+            ],
+            "original_language": "en",
+            "original_title": "Soul",
+            "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+            "vote_count": 3995,
+            "video": false,
+            "id": 508442,
+            "vote_average": 8.3,
+            "popularity": 2334.597,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                18,
+                37
+            ],
+            "original_language": "en",
+            "original_title": "News of the World",
+            "poster_path": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+            "video": false,
+            "vote_average": 7.5,
+            "overview": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+            "release_date": "2020-12-25",
+            "vote_count": 139,
+            "title": "News of the World",
+            "adult": false,
+            "backdrop_path": "/jjPpjUYf3o698cPx06FHZ5zqomv.jpg",
+            "id": 581032,
+            "popularity": 109.388,
+            "media_type": "movie"
+        },
+        {
+            "backdrop_path": "/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "original_language": "fr",
+            "poster_path": "/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg",
+            "vote_count": 318,
+            "first_air_date": "2021-01-08",
+            "vote_average": 8.0,
+            "name": "Lupin",
+            "origin_country": [
+                "FR"
+            ],
+            "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+            "original_name": "Lupin",
+            "id": 96677,
+            "popularity": 673.004,
+            "media_type": "tv"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wzJRB4MKi3yK138bJyuL9nx47y6.jpg",
+            "genre_ids": [
+                28,
+                53,
+                878
+            ],
+            "vote_count": 4066,
+            "original_language": "en",
+            "original_title": "Tenet",
+            "poster_path": "/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+            "id": 577922,
+            "video": false,
+            "vote_average": 7.3,
+            "title": "Tenet",
+            "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+            "release_date": "2020-08-22",
+            "popularity": 1247.445,
+            "media_type": "movie"
+        },
+        {
+            "backdrop_path": "/pwyMoXQbqJdmpjjl23KaaQLOv6S.jpg",
+            "first_air_date": "2021-01-22",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 97175,
+            "name": "Fate: The Winx Saga",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Fate: The Winx Saga",
+            "overview": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
+            "poster_path": "/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
+            "vote_average": 9.0,
+            "vote_count": 72,
+            "popularity": 179.78,
+            "media_type": "tv"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yUyuDacqA0IhWqEbPQPXBsEIbPX.jpg",
+            "genre_ids": [
+                18
+            ],
+            "original_language": "en",
+            "original_title": "One Night in Miami...",
+            "poster_path": "/rfIOzedY6LFzdWTeNnIkmxAiLCg.jpg",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 87,
+            "overview": "In the aftermath of Cassius Clay's defeat of Sonny Liston in 1964, the boxer meets with Malcolm X, Sam Cooke and Jim Brown to change the course of history in the segregated South.",
+            "release_date": "2020-12-25",
+            "title": "One Night in Miami...",
+            "id": 661914,
+            "popularity": 51.299,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wmx5vrNH6GEpv4NLACfibZlA1bq.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 628534,
+            "original_language": "en",
+            "original_title": "The White Tiger",
+            "overview": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+            "poster_path": "/7K4mdWaLGF2F4ASb2L12tlya9c9.jpg",
+            "release_date": "2021-01-13",
+            "title": "The White Tiger",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 27,
+            "popularity": 32.791,
+            "media_type": "movie"
+        },
+        {
+            "original_language": "en",
+            "original_title": "Batman: Soul of the Dragon",
+            "poster_path": "/jzhbZZWHMOxVF9uz8lNilDEx8dl.jpg",
+            "video": false,
+            "vote_average": 7.5,
+            "overview": "Bruce Wayne faces a deadly menace from his past, with the help of three former classmates: world-renowned martial artists Richard Dragon, Ben Turner and Lady Shiva.",
+            "release_date": "2021-01-12",
+            "vote_count": 47,
+            "title": "Batman: Soul of the Dragon",
+            "adult": false,
+            "backdrop_path": "/jvRewPpawHAfBW38EzHoFdTVEez.jpg",
+            "id": 732450,
+            "genre_ids": [
+                16,
+                28,
+                12,
+                80,
+                14
+            ],
+            "popularity": 896.974,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Fk3AB8E9dYIBc2ywJkxk8BTyhc.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Greenland",
+            "poster_path": "/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1471,
+            "overview": "John Garrity, his estranged wife and their young son embark on a perilous journey to find sanctuary as a planet-killing comet hurtles toward Earth. Amid terrifying accounts of cities getting levelled, the Garrity's experience the best and worst in humanity. As the countdown to the global apocalypse approaches zero, their incredible trek culminates in a desperate and last-minute flight to a possible safe haven.",
+            "release_date": "2020-07-29",
+            "title": "Greenland",
+            "id": 524047,
+            "popularity": 341.975,
+            "media_type": "movie"
+        },
+        {
+            "backdrop_path": "/2b0s0iMNl9CgrCMz0VGKlMw3vZw.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                10768,
+                9648
+            ],
+            "original_language": "ja",
+            "poster_path": "/lK0NAXT7mcJrC3NK8vpXwK5EJQu.jpg",
+            "vote_count": 2581,
+            "first_air_date": "2013-04-07",
+            "vote_average": 8.7,
+            "name": "Attack on Titan",
+            "origin_country": [
+                "JP"
+            ],
+            "overview": "Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest Titans. Flash forward to the present and the city has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a Colossal Titan that appears out of thin air. As the smaller Titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single Titan and take revenge for all of mankind.",
+            "original_name": "進撃の巨人",
+            "id": 1429,
+            "popularity": 178.432,
+            "media_type": "tv"
+        },
+        {
+            "original_language": "en",
+            "poster_path": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+            "vote_average": 8.5,
+            "vote_count": 5366,
+            "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "name": "The Mandalorian",
+            "backdrop_path": "/p7fwOnlxYYlB4A8U2b0JfX21Rr1.jpg",
+            "original_name": "The Mandalorian",
+            "origin_country": [
+                "US"
+            ],
+            "id": 82856,
+            "first_air_date": "2019-11-12",
+            "popularity": 883.843,
+            "media_type": "tv"
+        },
+        {
+            "overview": "A young woman haunted by a tragedy in her past takes revenge on the predatory men unlucky enough to cross her path.",
+            "release_date": "2020-12-13",
+            "adult": false,
+            "backdrop_path": "/rWrvcsrvISKXdMOzCdkvU3Jtg0j.jpg",
+            "genre_ids": [
+                53,
+                80,
+                18
+            ],
+            "vote_count": 136,
+            "original_language": "en",
+            "id": 582014,
+            "poster_path": "/cjzU4g6SlScnP4MdkleyI25KGlR.jpg",
+            "title": "Promising Young Woman",
+            "video": false,
+            "vote_average": 7.6,
+            "original_title": "Promising Young Woman",
+            "popularity": 69.766,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                878,
+                18,
+                53
+            ],
+            "original_language": "en",
+            "original_title": "Synchronic",
+            "poster_path": "/wgm4gdJwb7iSYX0uBsRAZmHQmPm.jpg",
+            "video": false,
+            "vote_average": 7.1,
+            "overview": "Two New Orleans paramedics' lives are ripped apart after encountering a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.",
+            "release_date": "2020-10-23",
+            "vote_count": 58,
+            "title": "Synchronic",
+            "adult": false,
+            "backdrop_path": "/zh1M8fE2vQ0BKxYzIvMYan7ryV.jpg",
+            "id": 549294,
+            "popularity": 47.266,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4qu4kO5HVTKMK2hvmCXeviZ233l.jpg",
+            "genre_ids": [
+                35,
+                80,
+                18
+            ],
+            "id": 741228,
+            "original_language": "en",
+            "original_title": "Locked Down",
+            "overview": "Set against the backdrop of the COVID-19 lockdown, sparring couple Linda and Paxton call a truce to attempt a high-risk jewellery heist at one of the world’s most exclusive department stores, Harrods.",
+            "poster_path": "/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg",
+            "release_date": "2021-02-25",
+            "title": "Locked Down",
+            "video": false,
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "popularity": 47.387,
+            "media_type": "movie"
+        },
+        {
+            "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+            "id": 44217,
+            "vote_average": 8.0,
+            "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+            "first_air_date": "2013-03-03",
+            "vote_count": 3872,
+            "original_name": "Vikings",
+            "backdrop_path": "/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+            "genre_ids": [
+                10759,
+                18
+            ],
+            "name": "Vikings",
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "popularity": 762.685,
+            "media_type": "tv"
+        },
+        {
+            "backdrop_path": "/9hvhGtcsGhQY58pukw8w55UEUbL.jpg",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "original_language": "en",
+            "poster_path": "/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+            "vote_count": 8503,
+            "first_air_date": "2017-01-26",
+            "vote_average": 8.6,
+            "name": "Riverdale",
+            "origin_country": [
+                "US"
+            ],
+            "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+            "original_name": "Riverdale",
+            "id": 69050,
+            "popularity": 2716.553,
+            "media_type": "tv"
+        },
+        {
+            "original_language": "en",
+            "original_title": "Pieces of a Woman",
+            "poster_path": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+            "video": false,
+            "vote_average": 7.2,
+            "overview": "When a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
+            "release_date": "2020-12-30",
+            "vote_count": 328,
+            "title": "Pieces of a Woman",
+            "adult": false,
+            "backdrop_path": "/izNpxVcjKbF9BiYF4GVqxCOfewL.jpg",
+            "id": 641662,
+            "genre_ids": [
+                18
+            ],
+            "popularity": 75.977,
+            "media_type": "movie"
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

@@ -5,6 +5,9 @@ import { Helmet } from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import AppBrowse1Row from '../browse/AppBrowse1Row'
+import { filterPostEvery } from './filter-post.js'
+
 
 export const BlogPostTemplate = ({
   content,
@@ -55,7 +58,9 @@ BlogPostTemplate.propTypes = {
 }
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post, allMarkdownRemark: posts } = data
+  var allPosts = posts.edges
+  const relatedPosts = filterPostEvery(allPosts, post.frontmatter.tags);
 
   return (
     <Layout>
@@ -75,6 +80,7 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
+      <AppBrowse1Row x1={relatedPosts}/>
     </Layout>
   )
 }
@@ -82,6 +88,7 @@ const BlogPost = ({ data }) => {
 BlogPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
+    allMarkdownRemark: PropTypes.object,
   }),
 }
 
@@ -99,5 +106,34 @@ export const pageQuery = graphql`
         tags
       }
     }
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 400)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            id
+            title
+            description
+            tags
+            poster_path {
+              publicURL
+            }
+            backdrop_path {
+              publicURL
+            }
+            
+              
+            
+          }
+        }
+      }
+    }    
   }
 `

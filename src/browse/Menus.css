@@ -1,0 +1,25 @@
+.menu {
+    position: fixed;
+    left: 150px;
+    width: 400px;
+    object-fit: contain;
+    height: 50px;
+}
+
+.menu1 {
+    position: fixed;
+    left: 150px;
+    object-fit: contain;
+}
+
+.menu2 {
+    position: fixed;
+    left: 215px;
+    object-fit: contain;
+}
+
+.menu3 {
+    position: fixed;
+    left: 290px;
+    object-fit: contain;
+}

@@ -8,6 +8,9 @@ backend:
     uploadMedia: '[skip ci] Upload “{{path}}”'
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
+    # when using the default proxy server port
+local_backend: true
+
 media_folder: static/img
 public_folder: /img
 
@@ -64,3 +67,9 @@ collections:
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
           - {label: Full_image, name: full_image, widget: image}
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: "src/pages/about-jumbo/index.md"
+        label: "About Jumbo Page"
+        name: "about-jumbo"
+        fields:
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Id, name: id, widget: text},{label: Title, name: title, widget: text},{label: SubTitle, name: subTitle, widget: text},{label: Alt, name: alt, widget: text},{label: Direction, name: direction, widget: text},{label: Image, name: image, widget: image}]}]}
+     
