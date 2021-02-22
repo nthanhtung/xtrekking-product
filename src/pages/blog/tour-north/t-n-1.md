@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Xtrekking
+title: Xtrekking2
 date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+  coffee tasters, has been revised for the first time this year.x
 featuredpost: false
-featuredimage: /img/t-n-1.jpg
+featuredimage: /img/t-c-2.jpg
 backdrop_path: /img/flavor_wheel.jpg
 poster_path: /img/flavor_wheel.jpg
 tags:
@@ -13,7 +13,7 @@ tags:
   - north
 id: 1
 ---
-![flavor wheel](/img/t-c-1.jpg)
+![flavor wheel](/img/t-c-14.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
