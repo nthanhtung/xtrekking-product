@@ -55,7 +55,7 @@ const Footer = class extends React.Component {
             <section>
               <ul className="menu-list" style={{width:"40%", margin:"auto"}}>
                 <li>
-                  <Link className="navbar-item"  style={{ "text-align": "center" }} to="/browse">
+                  <Link className="navbar-item"  style={{ "text-align": "center" }} to="/">
                     Latest Stories
                   </Link>
                 </li>
