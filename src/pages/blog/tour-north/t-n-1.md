@@ -13,7 +13,7 @@ tags:
   - north
 id: 1
 ---
-![flavor wheel](/img/33386526222_8246e9452e_k_1024x1024.jpg)
+![flavor wheel](/img/t-c-1.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
