@@ -20,14 +20,14 @@ description: Chinh phục nóc nhà Đông Dương Fansipan, khám phá dãy Ho�
 ## LỊCH TRÌNH TOUR TREKKING FANSIPAN 3N2Đ
 <br>
 
-###### Ngày 0: Hà Nội – Sapa/ Xe giường nằm
+#### Ngày 0: Hà Nội – Sapa/ Xe giường nằm
 - Khoảng 23h00: Quý khách tập trung tại 270 Nguyễn Hoàng, lên xe giường nằm di chuyển tới Sapa.
 - Xe sẽ đi qua khu vực sân bay Nội Bài sau khoảng 30-45 phút của giờ xuất bến, do đó Quý khách nên chọn chuyến bay đáp sân bay muộn nhất lúc 22h30.
 - Các chuyến xe khởi hành hàng ngày nên Quý khách có thể lên Sa Pa trước hoặc ở lại sau khi hoàn thành trekking.
 <br>Bữa ăn: Không.
 <br>Nghỉ đêm: Trên xe giường nằm.
 
-###### Ngày 1: Bắt đầu hành trình tại bản Cát Cát
+#### Ngày 1: Bắt đầu hành trình tại bản Cát Cát
 - 04h00: Quý khách di chuyển tới phòng nghỉ ở trung tâm thị trấn Sa Pa, nghỉ ngơi và vệ sinh cá nhân.
 - 07h00: Mọi người dùng bữa sáng tại Nhà hàng, gửi lại những đồ không cần thiết và chuẩn bị xuất phát.
 - 08h00: Xe đón Quý khách di chuyển tới bản Cát Cát - điểm trekking cách trung tâm khoảng 15 phút di chuyển. Hành trình bắt đầu.
@@ -38,7 +38,7 @@ description: Chinh phục nóc nhà Đông Dương Fansipan, khám phá dãy Ho�
 <br>Bữa ăn: Sáng, Trưa, Tối.
 <br>Nghỉ đêm: Lán nghỉ đêm, túi ngủ.
 
-###### Ngày 2: Thử thách của ý chí và sức bền
+#### Ngày 2: Thử thách của ý chí và sức bền
 - 05h30: Quý khách thức giấc, dùng bữa sáng, thưởng thức cafe hoặc cốc trà gừng ấm nóng.
 - 07h00: Quý khách tiếp tục hành trình chinh phục đỉnh Fansipan.
 - 12h00: Quý khách dùng bữa trưa dọc đường trên núi.
@@ -46,7 +46,7 @@ description: Chinh phục nóc nhà Đông Dương Fansipan, khám phá dãy Ho�
 <br>Bữa ăn: Sáng, Trưa, Tối.
 <br>Nghỉ đêm: Lán gỗ.
 
-###### Ngày 3: Đón bình minh trên đỉnh núi cao nhất Đông Dương/ Sapa – Về Hà Nội
+#### Ngày 3: Đón bình minh trên đỉnh núi cao nhất Đông Dương/ Sapa – Về Hà Nội
 - 05h00: Quý khách thức giấc, dùng bữa sáng, thưởng thức cafe hoặc cốc trà gừng ấm nóng.
 - 06h00: Mọi người bắt đầu chặng chinh phục cuối cùng để chạm đỉnh. Trong chặng này Quý khách sẽ để lại đồ tại điểm hạ trại và đi người không lên đỉnh.
 - 07h30: Chạm tới đỉnh Fansipan, Quý khách nghỉ ngơi, chụp ảnh lưu niệm và thưởng ngoạn phong cảnh trên đỉnh núi.
