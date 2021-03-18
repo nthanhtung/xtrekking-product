@@ -1,17 +1,19 @@
 ---
 templateKey: blog-post
-title: Xtrekking
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
 featuredpost: false
-featuredimage: /img/t-s-1.jpg
+featuredimage: /img/bidoup.jpg
 backdrop_path: /img/flavor_wheel.jpg
+date: 2016-12-17T15:04:10.000Z
 poster_path: /img/flavor_wheel.jpg
+title: Vườn quốc gia Bidoup
 tags:
   - tour
   - south
 id: 1
+description: Vườn quốc gia Bidoup – Núi Bà với đỉnh Bidoup cao 2.287m là một nơi
+  tuyệt vời cho các hoạt động khám phá hoang dã như đi bộ trong rừng (trekking,
+  hiking), cắm trại, xem chim, chinh phục các đỉnh núi và trải nghiệm cuộc sống
+  của người K’ho Cil, K’ho Lac của miền rừng nú khi đến vùng đất hoang dã này.
 ---
 ![flavor wheel](/img/33386526222_8246e9452e_k_1024x1024.jpg)
 
